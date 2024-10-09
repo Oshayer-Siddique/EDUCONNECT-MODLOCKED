@@ -23,7 +23,7 @@ const pool = mysql.createPool({
     host: 'localhost',    // Your MySQL host (usually 'localhost')
     user: 'root',         // Your MySQL username
     password: '12345678', // Your MySQL password
-    database: 'sd_student' // Your MySQL database name
+    database: 'EDUCONNECT' // Your MySQL database name
   });
   
   // Use promises for async/await with mysql2
