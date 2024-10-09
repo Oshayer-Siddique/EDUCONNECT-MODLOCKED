@@ -1,0 +1,9 @@
+DROP TABLE IF EXISTS `submission`;
+DROP TABLE IF EXISTS `announcement`;
+DROP TABLE IF EXISTS `teacher_assignment`;
+DROP TABLE IF EXISTS `student_enroll`;
+DROP TABLE IF EXISTS `assignment`;
+DROP TABLE IF EXISTS `teacher`;
+DROP TABLE IF EXISTS `student`;
+DROP TABLE IF EXISTS `course`;
+DROP TABLE IF EXISTS `department`;
